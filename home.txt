@@ -1,0 +1,9 @@
+По нажатию на кнопку apply - данные
+в списке обновляются.
+
+
+Возможные варианты решения:
+1.ActivityResultLauncher
+2.SharedPreferences
+3.Activity Lifecycle
+4.Пересоздать активити со списком
